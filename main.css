@@ -1,0 +1,180 @@
+body{
+    background-color: rgb(237, 239, 241);
+}
+.nav{
+    background-color: rgb(11, 61, 115);
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    margin: auto;
+   height: 125px;
+}
+.nav .nav-h1{
+    text-align: center;
+    margin: 10px;
+  
+}
+.nav .nav-h2{
+    text-align: center;
+    font-size: medium;
+}
+.about{
+    display: inline;
+    margin: 20px;
+    border: solid;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 1px;
+    background-color: rgb(42, 86, 133);
+    padding: 5px;
+    color: white;
+}
+.body{
+    background-color: white;
+    width: 80%;
+   
+    border-radius: 10px;
+
+    margin: auto;
+   height: 250px;
+}
+
+.me{
+    width: 150px;
+    display: inline;
+    float: left;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+.am{
+    font-size: large; 
+   margin-left: 250px;
+}
+.v2{
+    padding-left: 20px;
+    color: darkblue;
+}
+.b1{
+   font-size: large; 
+   margin-left: 250px; 
+   background-color: rgb(54, 38, 155);
+   width: 200px;
+   text-align: center;
+   color: white;
+   height: 20px;
+   padding: 20px;
+   border-radius: 20px;
+}
+.s1{
+    color: darkblue;
+    font-size: larger;
+}
+.body2{
+     background-color: white;
+    width: 80%;
+   
+    border-radius: 10px;
+
+    margin: auto;
+   height: 250px;
+   
+}
+.con{
+    float: left;
+    margin-left: 40px;
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 2px;
+    border-color: rgb(210, 223, 235);
+}
+.pbody2{
+    margin-left: 30px;
+}
+.inc{
+    color: blue;
+}
+.con2{
+   
+    margin-left: 40px;
+    
+    border: solid;
+    border-radius: 20px;
+    border-width: 1px;
+    padding: 2px;
+    border-color: rgb(210, 223, 235);
+    border-left-color: darkblue;
+    border-left-width: 5px;
+    width: 90%;
+    margin-top: 20px;
+}
+.img1{
+    width: 70px;
+    float: left;
+  border: solid;
+    border-radius: 20px;
+    border-width: 1px;
+     border-color: rgb(210, 223, 235);
+     padding: 5px;
+     margin-left: 10px;
+}
+.ca{
+    margin-left: 100px;
+}
+.ca2{
+    margin-left: 100px;
+    color: darkblue;
+}
+.body3{
+     background-color: white;
+    width: 80%;
+   
+    border-radius: 10px;
+
+    margin: auto;
+   height: 500px;
+   
+}
+.Contact{
+    background-color: rgb(11, 61, 115);
+    width: 80%;
+   
+    border-radius: 10px;
+    color: white;
+    margin: auto;
+   height: 200px;
+   
+}
+.cont{
+    padding: 10px;
+}
+.about2{
+    display: inline;
+    margin: 20px;
+    border: solid;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 1px;
+    background-color: rgb(42, 86, 133);
+    padding: 5px;
+    color: white;
+}
+.Footer{
+    background-color: rgb(2, 26, 52);
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    margin: auto;
+   height: 125px;
+   
+}
+.s2{
+    color: rgb(117, 117, 217);
+    
+}
+.Footer-h2{
+   padding-top: 50px;
+}
